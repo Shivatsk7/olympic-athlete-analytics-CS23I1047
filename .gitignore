@@ -1,5 +1,5 @@
 .venv/
-.DS_Store
 __pycache__/
+.DS_Store
 data/scaled_x*.csv
-report/*.docx
+report/*_filled.docx

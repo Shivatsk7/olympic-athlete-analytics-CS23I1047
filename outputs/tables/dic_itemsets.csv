@@ -249,11 +249,11 @@ Sport=Archery,1,305,0.01044
 "Gender=Men, NOC=RUS",2,345,0.01181
 "Medal=Silver, Sport=Cycling",2,342,0.01171
 "Medal=Bronze, Sport=Cycling",2,338,0.01157
-"Era=Modern_1992-2008, Sport=Baseball",2,335,0.01147
 "Gender=Men, Sport=Baseball",2,335,0.01147
-"Medal=Gold, Sport=Canoe / Kayak",2,334,0.01143
-"Medal=Bronze, Sport=Canoe / Kayak",2,334,0.01143
+"Era=Modern_1992-2008, Sport=Baseball",2,335,0.01147
 "Medal=Silver, Sport=Canoe / Kayak",2,334,0.01143
+"Medal=Bronze, Sport=Canoe / Kayak",2,334,0.01143
+"Medal=Gold, Sport=Canoe / Kayak",2,334,0.01143
 "Era=Interwar_1920-1936, Gender=Women",2,333,0.0114
 "Era=Postwar_1948-1968, NOC=ITA",2,332,0.01136
 "Medal=Gold, NOC=GDR",2,329,0.01126
@@ -284,8 +284,8 @@ Sport=Archery,1,305,0.01044
 "Medal=Gold, Sport=Equestrian",2,305,0.01044
 "Era=Modern_1992-2008, NOC=CUB",2,305,0.01044
 "Medal=Gold, Sport=Volleyball",2,304,0.01041
-"Medal=Bronze, Sport=Volleyball",2,303,0.01037
 "Medal=Silver, Sport=Volleyball",2,303,0.01037
+"Medal=Bronze, Sport=Volleyball",2,303,0.01037
 "Era=Modern_1992-2008, NOC=FRA",2,303,0.01037
 "Era=Interwar_1920-1936, Sport=Shooting",2,301,0.0103
 "Era=ColdWar_1972-1988, Sport=Wrestling",2,300,0.01027
@@ -456,13 +456,13 @@ Sport=Archery,1,305,0.01044
 "Era=Modern_1992-2008, Gender=Men, Sport=Canoe / Kayak",3,300,0.01027
 "Era=ColdWar_1972-1988, Gender=Men, Sport=Wrestling",3,300,0.01027
 "Gender=Men, Medal=Bronze, Sport=Hockey",3,299,0.01023
-"Era=Modern_1992-2008, Medal=Gold, Sport=Athletics",3,298,0.0102
 "Era=Modern_1992-2008, Medal=Bronze, Sport=Athletics",3,298,0.0102
+"Era=Modern_1992-2008, Medal=Gold, Sport=Athletics",3,298,0.0102
 "Gender=Men, Medal=Bronze, NOC=GER",3,298,0.0102
 "Era=ColdWar_1972-1988, Medal=Silver, Sport=Aquatics",3,297,0.01017
 "Era=Postwar_1948-1968, Medal=Silver, NOC=URS",3,296,0.01013
-"Era=ColdWar_1972-1988, Medal=Gold, Sport=Aquatics",3,296,0.01013
 "Era=ColdWar_1972-1988, Medal=Bronze, Sport=Aquatics",3,296,0.01013
+"Era=ColdWar_1972-1988, Medal=Gold, Sport=Aquatics",3,296,0.01013
 "Era=ColdWar_1972-1988, Medal=Silver, NOC=USA",3,294,0.01006
 "Era=Modern_1992-2008, Gender=Women, NOC=RUS",3,293,0.01003
 "Gender=Men, Medal=Gold, NOC=USA, Sport=Athletics",4,379,0.01297

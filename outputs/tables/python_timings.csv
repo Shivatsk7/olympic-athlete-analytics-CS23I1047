@@ -1,4 +1,4 @@
 algorithm,impl,rows,seconds
-DIC,python,29214,0.3235
-A-Close,python,29214,0.081
-K-Medoids,python,5000,2.1523
+DIC,python,29214,0.3077
+A-Close,python,29214,0.0764
+K-Medoids,python,5000,2.0657
