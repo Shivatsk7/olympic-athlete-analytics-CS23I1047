@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 data/scaled_x*.csv
 report/*_filled.docx
+report/
