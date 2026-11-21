@@ -1,0 +1,17 @@
+plot,inference
+01_medals_per_edition.png,Medal awards grew 13.5x from 151 in 1896 to a peak of 2042 in 2008.
+02_medal_type_by_era.png,Gold share stays near one third in every era (32.9%-36.9%); Modern_1992-2008 has the most medal awards (9618).
+03_top15_nocs.png,"USA leads with 4335 medal awards, 2.1x second-placed URS (2049); counting each team once: USA 2286, URS 1005."
+04_gender_share.png,Men won 74.3% of all medal awards vs Women 25.7%.
+05_gender_per_edition.png,Women's share grew from 0% in 1896 (first medal awards 1900) to 45.6% in 2008.
+06_noc_sport_heatmap.png,"Strongest cell is USA in Aquatics (1096 medal awards), showing country-sport specialisation."
+07_medals_per_athlete_hist.png,"78.0% of 21703 athletes won a single medal; max is 18 (Latynina, Larisa)."
+08_noc_edition_box_era.png,"Median medal awards per NOC per edition ranges 6-16 across eras while outliers reach 442, a heavily skewed distribution."
+09_athlete_violin_gender.png,"Mean medal awards per athlete: Men 1.32 (max 16), Women 1.42 (max 18)."
+10_top10_noc_medal_types.png,"USA has the highest gold ratio among top 10 (48.2%), AUS the lowest (27.3%)."
+11_bubble_editions_vs_medals.png,Editions with medal awards correlate with log total medal awards (r=0.81) across 138 NOCs.
+12_top15_disciplines.png,"Athletics (3447) and Rowing (2523) dominate, together 20.4% of all medal awards."
+14_dic_rules_scatter.png,"218 rules; 70.6% have lift > 1; top lift 5.29 (Sport=Baseball -> Era=Modern_1992-2008, Gender=Men)."
+15_dic_vs_aclose_itemsets.png,A-Close keeps 458 of 473 itemsets (3.2% redundant removed) with no loss of support information.
+16_kmedoids_k_selection.png,"Best k=3 (silhouette 0.202); all other k score 0.06-0.11, so clusters are weakly separated."
+17_kmedoids_cluster_profiles.png,Clusters split by Medal (90%-100% of each cluster share one medal type); other attributes are mixed.

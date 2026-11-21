@@ -1,0 +1,6 @@
+algorithm,size,python_result,spark_result,match
+K-Medoids,2000,240 975 1204,240 975 1204,True
+K-Medoids,5000,797 887 2893,797 887 2893,True
+K-Medoids,10000,975 1204 2498,975 1204 2498,True
+K-Medoids,20000,487 1362 2498,487 1362 2498,True
+K-Medoids,40000,484 1802 1872,484 1802 1872,True

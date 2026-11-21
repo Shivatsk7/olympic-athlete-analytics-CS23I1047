@@ -1,0 +1,16 @@
+cluster,attribute,top_value,share
+0,Sport,Aquatics,0.1255
+0,Gender,Men,0.7236
+0,NOC,GER,0.1183
+0,Medal,Bronze,0.9292
+0,Era,Modern_1992-2008,0.3659
+1,Sport,Aquatics,0.1509
+1,Gender,Men,0.7337
+1,NOC,USA,0.3074
+1,Medal,Gold,0.8981
+1,Era,Modern_1992-2008,0.3187
+2,Sport,Aquatics,0.1145
+2,Gender,Men,0.7406
+2,NOC,URS,0.0742
+2,Medal,Silver,1.0
+2,Era,Modern_1992-2008,0.3357

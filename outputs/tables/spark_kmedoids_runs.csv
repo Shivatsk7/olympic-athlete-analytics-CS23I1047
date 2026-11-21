@@ -1,0 +1,6 @@
+algorithm,size,python_s,spark_s,repeats
+K-Medoids,2000,0.0615,1.6687,3.0
+K-Medoids,5000,0.3968,2.0549,3.0
+K-Medoids,10000,1.2847,2.5326,3.0
+K-Medoids,20000,4.7475,5.4374,3.0
+K-Medoids,40000,36.7734,20.8729,3.0

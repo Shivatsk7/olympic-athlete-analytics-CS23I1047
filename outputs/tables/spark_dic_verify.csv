@@ -1,0 +1,5 @@
+algorithm,size,python_result,spark_result,match
+DIC,29214,473,473,True
+DIC,292140,473,473,True
+DIC,1460700,473,473,True
+DIC,5842800,473,473,True

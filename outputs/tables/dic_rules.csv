@@ -1,0 +1,219 @@
+antecedent,consequent,support,confidence,lift
+Sport=Baseball,"Era=Modern_1992-2008, Gender=Men",0.01147,1.0,5.29143
+NOC=FRG,"Era=ColdWar_1972-1988, Gender=Men",0.0115,0.68571,4.16302
+"Medal=Gold, NOC=GDR",Era=ColdWar_1972-1988,0.01082,0.96049,4.07784
+"Gender=Women, NOC=GDR",Era=ColdWar_1972-1988,0.01208,0.95664,4.06151
+NOC=GDR,Era=ColdWar_1972-1988,0.02649,0.93818,3.98315
+"Gender=Men, NOC=GDR",Era=ColdWar_1972-1988,0.01441,0.92325,3.91974
+NOC=CHN,"Era=Modern_1992-2008, Gender=Women",0.01277,0.54934,3.9171
+NOC=FRG,Era=ColdWar_1972-1988,0.0151,0.9,3.82104
+"Gender=Men, NOC=FRG",Era=ColdWar_1972-1988,0.0115,0.896,3.80406
+NOC=GDR,"Era=ColdWar_1972-1988, Gender=Men",0.01441,0.5103,3.09809
+NOC=RUS,Era=Modern_1992-2008,0.02184,1.0,3.03743
+Sport=Baseball,Era=Modern_1992-2008,0.01147,1.0,3.03743
+"Gender=Men, NOC=RUS",Era=Modern_1992-2008,0.01181,1.0,3.03743
+"Gender=Women, NOC=RUS",Era=Modern_1992-2008,0.01003,1.0,3.03743
+"Gender=Men, Sport=Baseball",Era=Modern_1992-2008,0.01147,1.0,3.03743
+NOC=RUS,"Era=Modern_1992-2008, Gender=Men",0.01181,0.54075,2.86135
+"Medal=Gold, NOC=URS",Era=ColdWar_1972-1988,0.01869,0.65155,2.76623
+"Gender=Men, Medal=Gold, NOC=URS",Era=ColdWar_1972-1988,0.01277,0.6487,2.7541
+"Gender=Women, NOC=URS",Era=ColdWar_1972-1988,0.0127,0.64747,2.7489
+NOC=CHN,Gender=Women,0.01578,0.67894,2.64637
+"Era=Modern_1992-2008, NOC=CHN",Gender=Women,0.01277,0.67818,2.64342
+"Gender=Women, NOC=GER",Era=Modern_1992-2008,0.01068,0.86188,2.6179
+"Medal=Bronze, NOC=URS",Era=ColdWar_1972-1988,0.01215,0.60788,2.5808
+NOC=URS,Era=ColdWar_1972-1988,0.04217,0.60127,2.55275
+"Gender=Men, NOC=URS",Era=ColdWar_1972-1988,0.02947,0.58333,2.4766
+NOC=CHN,Era=Modern_1992-2008,0.01883,0.81001,2.46036
+"Gender=Women, NOC=CHN",Era=Modern_1992-2008,0.01277,0.80911,2.45762
+NOC=CUB,Era=Modern_1992-2008,0.01044,0.77215,2.34536
+"Gender=Women, NOC=AUS",Era=Modern_1992-2008,0.01095,0.74766,2.27098
+"Medal=Silver, NOC=URS",Era=ColdWar_1972-1988,0.01133,0.52791,2.2413
+NOC=ROU,Era=ColdWar_1972-1988,0.01109,0.51923,2.20445
+NOC=KOR,Era=Modern_1992-2008,0.01089,0.6824,2.07275
+NOC=ROU,Gender=Women,0.01112,0.52083,2.0301
+"Era=Modern_1992-2008, Sport=Aquatics",Gender=Women,0.02639,0.51469,2.00614
+"Era=Modern_1992-2008, Medal=Gold, NOC=USA",Gender=Women,0.01089,0.5129,1.99919
+"Era=Modern_1992-2008, NOC=USA",Gender=Women,0.02287,0.50953,1.98606
+Sport=Volleyball,Gender=Women,0.01557,0.5,1.9489
+NOC=AUS,Era=Modern_1992-2008,0.02321,0.6307,1.9157
+NOC=GER,Era=Modern_1992-2008,0.02365,0.5706,1.73317
+"Era=Postwar_1948-1968, Gender=Men, NOC=USA",Medal=Gold,0.0129,0.57734,1.71249
+"Gender=Women, Medal=Gold, NOC=USA",Era=Modern_1992-2008,0.01089,0.55986,1.70053
+"Gender=Men, NOC=AUS",Era=Modern_1992-2008,0.01225,0.55332,1.68068
+"Gender=Women, Medal=Bronze",Era=Modern_1992-2008,0.04744,0.55131,1.67457
+"Gender=Women, NOC=USA",Era=Modern_1992-2008,0.02287,0.54979,1.66996
+"Era=Postwar_1948-1968, NOC=USA",Medal=Gold,0.01547,0.5601,1.66136
+Gender=Women,Era=Modern_1992-2008,0.14024,0.54663,1.66035
+"Gender=Women, Medal=Gold",Era=Modern_1992-2008,0.04645,0.54608,1.65867
+"Gender=Women, Medal=Silver",Era=Modern_1992-2008,0.04635,0.54247,1.64771
+"Gender=Women, Sport=Rowing",Era=Modern_1992-2008,0.01047,0.51777,1.57268
+"Era=Interwar_1920-1936, NOC=USA",Medal=Gold,0.01342,0.52406,1.55447
+"Era=Interwar_1920-1936, Gender=Men, NOC=USA",Medal=Gold,0.01154,0.52167,1.54738
+"Gender=Women, Sport=Aquatics",Era=Modern_1992-2008,0.02639,0.50097,1.52168
+Sport=Handball,Era=Modern_1992-2008,0.01516,0.5,1.51871
+"Era=Postwar_1948-1968, Sport=Rowing",Gender=Men,0.01602,1.0,1.34509
+Sport=Boxing,Gender=Men,0.02882,1.0,1.34509
+Sport=Baseball,Gender=Men,0.01147,1.0,1.34509
+"Era=Interwar_1920-1936, Sport=Shooting",Gender=Men,0.0103,1.0,1.34509
+"Era=Early_1896-1912, Sport=Athletics",Gender=Men,0.01424,1.0,1.34509
+"Era=Early_1896-1912, Sport=Shooting",Gender=Men,0.01109,1.0,1.34509
+"Era=Early_1896-1912, Sport=Gymnastics",Gender=Men,0.01421,1.0,1.34509
+"Medal=Bronze, Sport=Boxing",Gender=Men,0.01335,1.0,1.34509
+"Era=Interwar_1920-1936, Sport=Rowing",Gender=Men,0.01267,1.0,1.34509
+"Era=ColdWar_1972-1988, Sport=Wrestling",Gender=Men,0.01027,1.0,1.34509
+"Era=Modern_1992-2008, Sport=Baseball",Gender=Men,0.01147,1.0,1.34509
+"Era=Interwar_1920-1936, NOC=FRA",Gender=Men,0.01277,0.98417,1.3238
+NOC=FIN,Gender=Men,0.01513,0.98004,1.31825
+"Medal=Silver, Sport=Wrestling",Gender=Men,0.01256,0.97867,1.31639
+"Medal=Gold, Sport=Wrestling",Gender=Men,0.01249,0.97855,1.31624
+"Era=Early_1896-1912, Medal=Silver",Gender=Men,0.03279,0.97755,1.31489
+"Era=Early_1896-1912, Medal=Gold",Gender=Men,0.03485,0.97697,1.31411
+Era=Early_1896-1912,Gender=Men,0.09427,0.9759,1.31268
+Sport=Wrestling,Gender=Men,0.03806,0.97544,1.31205
+"Era=Early_1896-1912, NOC=USA",Gender=Men,0.02112,0.97472,1.31109
+"Era=Early_1896-1912, Medal=Bronze",Gender=Men,0.02663,0.9725,1.3081
+"Era=Postwar_1948-1968, NOC=ITA",Gender=Men,0.01102,0.96988,1.30457
+"Medal=Bronze, Sport=Wrestling",Gender=Men,0.01301,0.96939,1.30391
+"Era=Interwar_1920-1936, Sport=Fencing",Gender=Men,0.01075,0.96319,1.29558
+"Era=Interwar_1920-1936, NOC=ITA",Gender=Men,0.01164,0.96317,1.29555
+"Era=Early_1896-1912, NOC=GBR",Gender=Men,0.01955,0.96128,1.29301
+NOC=BEL,Gender=Men,0.01335,0.95588,1.28575
+"Era=Interwar_1920-1936, NOC=SWE",Gender=Men,0.01061,0.94801,1.27516
+"Medal=Gold, NOC=SWE",Gender=Men,0.01123,0.94524,1.27144
+"Medal=Silver, NOC=FRA",Gender=Men,0.01475,0.93492,1.25756
+NOC=SUI,Gender=Men,0.01198,0.93085,1.25208
+"Era=Interwar_1920-1936, Medal=Gold",Gender=Men,0.04885,0.92723,1.2472
+"Era=Interwar_1920-1936, Medal=Silver",Gender=Men,0.04696,0.92515,1.24441
+"Medal=Bronze, NOC=ITA",Gender=Men,0.01184,0.92513,1.24439
+Era=Interwar_1920-1936,Gender=Men,0.1386,0.92401,1.24287
+"Medal=Gold, Sport=Sailing",Gender=Men,0.01249,0.92172,1.23979
+"Era=Interwar_1920-1936, Medal=Bronze",Gender=Men,0.04279,0.91912,1.2363
+"Medal=Silver, Sport=Sailing",Gender=Men,0.01119,0.91854,1.23552
+Sport=Sailing,Gender=Men,0.03331,0.91706,1.23353
+"Medal=Silver, NOC=SWE",Gender=Men,0.01095,0.91691,1.23332
+NOC=FRA,Gender=Men,0.04118,0.91553,1.23146
+"Medal=Gold, NOC=GBR",Gender=Men,0.01557,0.91365,1.22895
+NOC=SWE,Gender=Men,0.0319,0.91283,1.22784
+"Medal=Gold, NOC=FRA",Gender=Men,0.01181,0.9127,1.22766
+"Medal=Gold, NOC=ITA",Gender=Men,0.01431,0.9087,1.22228
+"Medal=Gold, Sport=Cycling",Gender=Men,0.01068,0.90435,1.21643
+"Medal=Silver, Sport=Cycling",Gender=Men,0.01058,0.90351,1.2153
+Sport=Cycling,Gender=Men,0.0317,0.90341,1.21517
+NOC=ITA,Gender=Men,0.03796,0.90309,1.21474
+"Medal=Bronze, Sport=Cycling",Gender=Men,0.01044,0.90237,1.21376
+"Medal=Bronze, Sport=Shooting",Gender=Men,0.01126,0.90137,1.21242
+Sport=Shooting,Gender=Men,0.03406,0.90045,1.21119
+"Medal=Silver, Sport=Shooting",Gender=Men,0.01143,0.90027,1.21094
+"Medal=Gold, Sport=Shooting",Gender=Men,0.01136,0.89973,1.21022
+"Medal=Bronze, NOC=FRA",Gender=Men,0.01462,0.89895,1.20916
+Sport=Weightlifting,Gender=Men,0.0166,0.88504,1.19045
+"Medal=Silver, NOC=ITA",Gender=Men,0.01181,0.87563,1.17781
+"Medal=Gold, NOC=HUN",Gender=Men,0.01195,0.8725,1.17359
+"Era=Interwar_1920-1936, Sport=Athletics",Gender=Men,0.01722,0.86575,1.16451
+"Era=Interwar_1920-1936, Sport=Gymnastics",Gender=Men,0.01314,0.86486,1.16332
+"Era=Interwar_1920-1936, NOC=USA",Gender=Men,0.02211,0.86364,1.16167
+"Era=Interwar_1920-1936, Medal=Gold, NOC=USA",Gender=Men,0.01154,0.85969,1.15637
+NOC=YUG,Gender=Men,0.01277,0.85747,1.15338
+"Medal=Gold, Sport=Football",Gender=Men,0.01366,0.85439,1.14923
+Sport=Football,Gender=Men,0.04036,0.85004,1.14337
+"Medal=Bronze, Sport=Football",Gender=Men,0.01369,0.84926,1.14233
+"Era=Postwar_1948-1968, Sport=Fencing",Gender=Men,0.01205,0.84819,1.1409
+"Medal=Silver, Sport=Football",Gender=Men,0.01301,0.84633,1.13838
+NOC=GBR,Gender=Men,0.04573,0.83814,1.12738
+"Era=Postwar_1948-1968, Medal=Bronze",Gender=Men,0.05319,0.83593,1.12441
+"Medal=Silver, NOC=GBR",Gender=Men,0.01691,0.83587,1.12432
+NOC=ESP,Gender=Men,0.01078,0.83554,1.12388
+"Era=Postwar_1948-1968, Medal=Gold, NOC=USA",Gender=Men,0.0129,0.83407,1.1219
+"Era=Postwar_1948-1968, Medal=Gold",Gender=Men,0.05247,0.83315,1.12066
+Era=Postwar_1948-1968,Gender=Men,0.15688,0.83161,1.11859
+"Era=Postwar_1948-1968, Medal=Silver",Gender=Men,0.05121,0.82561,1.11052
+"Medal=Silver, Sport=Fencing",Gender=Men,0.01458,0.81923,1.10194
+NOC=DEN,Gender=Men,0.01376,0.81874,1.10127
+"NOC=USA, Sport=Athletics",Gender=Men,0.02667,0.81828,1.10066
+Sport=Fencing,Gender=Men,0.04327,0.81707,1.09903
+"Medal=Gold, Sport=Fencing",Gender=Men,0.01482,0.81698,1.09891
+"Medal=Bronze, Sport=Fencing",Gender=Men,0.01386,0.81489,1.0961
+NOC=POL,Gender=Men,0.0139,0.81363,1.0944
+"Era=Postwar_1948-1968, NOC=USA",Gender=Men,0.02235,0.80917,1.08841
+"Medal=Gold, NOC=USA, Sport=Athletics",Gender=Men,0.01297,0.80297,1.08006
+Sport=Equestrian,Gender=Men,0.02451,0.80089,1.07728
+NOC=NOR,Gender=Men,0.01468,0.79888,1.07457
+"Era=Postwar_1948-1968, NOC=HUN",Gender=Men,0.01157,0.79157,1.06473
+NOC=HUN,Gender=Men,0.028,0.77683,1.0449
+Sport=Canoe / Kayak,Gender=Men,0.02649,0.77246,1.03902
+"Medal=Silver, NOC=URS",Gender=Men,0.0165,0.76874,1.03402
+"Medal=Bronze, NOC=GBR",Gender=Men,0.01325,0.76634,1.03079
+"Medal=Gold, Sport=Rowing",Gender=Men,0.02208,0.76603,1.03038
+Sport=Rowing,Gender=Men,0.06613,0.76576,1.03001
+"Medal=Silver, Sport=Rowing",Gender=Men,0.02204,0.76576,1.03001
+"Medal=Bronze, Sport=Rowing",Gender=Men,0.02201,0.76548,1.02963
+NOC=FRG,Gender=Men,0.01284,0.76531,1.02941
+"Era=ColdWar_1972-1988, NOC=FRG",Gender=Men,0.0115,0.7619,1.02483
+NOC=CUB,Gender=Men,0.01023,0.75696,1.01818
+"Era=Postwar_1948-1968, NOC=URS",Gender=Men,0.02105,0.75275,1.01252
+Medal=Gold,Gender=Men,0.25207,0.74769,1.00571
+Medal=Silver,Gender=Men,0.24581,0.74207,0.99815
+Medal=Bronze,Gender=Men,0.24557,0.7405,0.99604
+"Medal=Gold, NOC=GER",Gender=Men,0.0103,0.73956,0.99477
+"Medal=Bronze, NOC=USA",Gender=Men,0.02622,0.72814,0.97941
+"Medal=Gold, NOC=USA",Gender=Men,0.05203,0.72797,0.97918
+NOC=URS,Gender=Men,0.05052,0.72035,0.96894
+NOC=USA,Gender=Men,0.1068,0.71972,0.96809
+"Medal=Bronze, NOC=URS",Gender=Men,0.01434,0.71747,0.96506
+"Medal=Gold, Sport=Hockey",Gender=Men,0.01112,0.71744,0.96502
+"Era=Modern_1992-2008, Sport=Canoe / Kayak",Gender=Men,0.01027,0.71429,0.96078
+"Medal=Silver, Sport=Hockey",Gender=Men,0.01085,0.71396,0.96035
+Sport=Hockey,Gender=Men,0.03221,0.71073,0.95599
+"Era=ColdWar_1972-1988, Medal=Bronze",Gender=Men,0.05734,0.70795,0.95225
+NOC=JPN,Gender=Men,0.01691,0.7017,0.94386
+NOC=GER,Gender=Men,0.02906,0.70107,0.94301
+"Medal=Bronze, Sport=Hockey",Gender=Men,0.01023,0.70023,0.94188
+Era=ColdWar_1972-1988,Gender=Men,0.16472,0.69932,0.94064
+"Era=ColdWar_1972-1988, NOC=URS",Gender=Men,0.02947,0.69886,0.94003
+"Medal=Silver, NOC=USA",Gender=Men,0.02855,0.69791,0.93875
+"Era=ColdWar_1972-1988, Medal=Gold",Gender=Men,0.05405,0.69744,0.93812
+"Era=Postwar_1948-1968, Sport=Athletics",Gender=Men,0.01852,0.69537,0.93534
+NOC=CAN,Gender=Men,0.01407,0.69426,0.93384
+"Era=ColdWar_1972-1988, Medal=Silver",Gender=Men,0.05333,0.69214,0.93099
+"Medal=Bronze, Sport=Athletics",Gender=Men,0.02687,0.69102,0.92949
+"Medal=Gold, Sport=Athletics",Gender=Men,0.02721,0.6907,0.92906
+Sport=Athletics,Gender=Men,0.08147,0.69046,0.92872
+"Medal=Silver, Sport=Athletics",Gender=Men,0.02738,0.68966,0.92765
+"Medal=Gold, NOC=URS",Gender=Men,0.01968,0.68616,0.92294
+"Era=ColdWar_1972-1988, Medal=Gold, NOC=URS",Gender=Men,0.01277,0.68315,0.9189
+"Medal=Gold, Sport=Gymnastics",Gender=Men,0.01845,0.68314,0.91889
+"Era=Interwar_1920-1936, Sport=Aquatics",Gender=Men,0.01082,0.67957,0.91408
+Sport=Judo,Gender=Men,0.0101,0.67816,0.91219
+"Era=ColdWar_1972-1988, NOC=USA",Gender=Men,0.0192,0.67105,0.90263
+Sport=Gymnastics,Gender=Men,0.05028,0.6635,0.89247
+"Medal=Silver, Sport=Gymnastics",Gender=Men,0.01643,0.66207,0.89054
+"Era=Postwar_1948-1968, Sport=Aquatics",Gender=Men,0.01653,0.65714,0.88392
+"Medal=Bronze, NOC=GER",Gender=Men,0.0102,0.65639,0.8829
+Sport=Basketball,Gender=Men,0.02112,0.65638,0.88289
+"Medal=Bronze, Sport=Gymnastics",Gender=Men,0.0154,0.64286,0.8647
+"Era=ColdWar_1972-1988, Sport=Aquatics",Gender=Men,0.01848,0.60742,0.81704
+"Era=ColdWar_1972-1988, Sport=Rowing",Gender=Men,0.01499,0.60581,0.81487
+NOC=AUS,Gender=Men,0.02215,0.60186,0.80956
+"Medal=Bronze, Sport=Aquatics",Gender=Men,0.02581,0.60032,0.80748
+NOC=NED,Gender=Men,0.01602,0.59847,0.80499
+Sport=Aquatics,Gender=Men,0.07835,0.59796,0.80431
+"Medal=Gold, Sport=Aquatics",Gender=Men,0.02663,0.59754,0.80375
+"Medal=Silver, Sport=Aquatics",Gender=Men,0.02591,0.59606,0.80176
+"Era=ColdWar_1972-1988, Sport=Athletics",Gender=Men,0.01537,0.58236,0.78333
+"Era=Modern_1992-2008, Sport=Rowing",Gender=Men,0.01458,0.58197,0.7828
+"Era=Modern_1992-2008, Medal=Bronze",Gender=Men,0.06562,0.58038,0.78067
+Era=Modern_1992-2008,Gender=Men,0.18898,0.57403,0.77212
+"Era=Modern_1992-2008, Medal=Gold",Gender=Men,0.06185,0.57111,0.7682
+"Era=Modern_1992-2008, Medal=Silver",Gender=Men,0.06151,0.5703,0.7671
+"Medal=Gold, NOC=USA, Sport=Aquatics",Gender=Men,0.01017,0.56788,0.76385
+Sport=Handball,Gender=Men,0.01708,0.56321,0.75756
+NOC=GDR,Gender=Men,0.01561,0.55273,0.74347
+"NOC=USA, Sport=Aquatics",Gender=Men,0.02064,0.55018,0.74004
+"Era=Modern_1992-2008, NOC=GER",Gender=Men,0.01297,0.54848,0.73776
+"Era=ColdWar_1972-1988, NOC=GDR",Gender=Men,0.01441,0.54393,0.73163
+NOC=RUS,Gender=Men,0.01181,0.54075,0.72736
+"Era=Modern_1992-2008, NOC=RUS",Gender=Men,0.01181,0.54075,0.72736
+"Era=Modern_1992-2008, NOC=AUS",Gender=Men,0.01225,0.52802,0.71024
+"Era=Modern_1992-2008, Sport=Athletics",Gender=Men,0.01612,0.52275,0.70315
+Sport=Volleyball,Gender=Men,0.01557,0.5,0.67254
